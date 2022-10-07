@@ -1,6 +1,9 @@
 ## <h1 align="center">@IqrorjonCoder</h1>
 
-<h3> I am writing all pandas functions examples . and you can use it you want</h3>
+
+<h4 align="center">I hope this will be useful for you (inshaallah) 🤲🤲🤲</h4>
+
+<h3> I am writing all pandas functions examples and you can use it you want</h3>
 
 ##
 
