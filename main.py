@@ -9,8 +9,3 @@ for i, v in enumerate(functions):
     os.mkdir(f"./{i} {v}")
     with open(f"././{i} {v}/{v.lower()}.ipynb", 'w') as f:
         pass
-
-
-
-# for i,v in enumerate(dir(pd.read_csv)):
-#     print(i, v)
