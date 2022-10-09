@@ -1,0 +1,10 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  a &  b &   c \\
+\midrule
+0 & -1 &  5 &   9 \\
+1 &  2 &  6 & -10 \\
+2 &  3 &  7 &  11 \\
+3 &  4 &  8 &  12 \\
+\bottomrule
+\end{tabular}
