@@ -7,4 +7,4 @@ df1 = pd.DataFrame({
 })
 
 print(df1)
-print(df1.to_gbq("C:/Users/student.ASTRUM-DOMAIN/PycharmProjects/all_pandas_functions1/base/feather_file"))
+print(df1.to_gbq("C:/Users/student.ASTRUM-DOMAIN/PycharmProjects/all_pandas_functions/base/simplee_to_gbq"))
