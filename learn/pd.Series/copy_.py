@@ -5,4 +5,4 @@ d = [1,2,3,None]
 data = pd.Series(d)
 
 print(data)
-print(data.cumsum())
+print(data.copy())
