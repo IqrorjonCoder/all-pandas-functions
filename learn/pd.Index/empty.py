@@ -1,0 +1,7 @@
+import pandas as pd
+
+data = pd.Index([1,2,3,None])
+
+print(data)
+print(data.empty)
+print(pd.Index([]).empty)
